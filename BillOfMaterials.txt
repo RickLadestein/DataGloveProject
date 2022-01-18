@@ -1,0 +1,11 @@
+8x IMU6050 sensors
+1x TCA9845
+1x ESP32 WROOM DEVKIT V1
+4x perfboard 70*90 CM
+8x Finger holder (see 3D folder)
+1x USB Micro B cable
+
+Soldering iron
+Solder
+6 differently colored wires
+SMD headers
